@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeur / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
