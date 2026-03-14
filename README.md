@@ -20,7 +20,7 @@ Ce dépôt contient l’implémentation d’une **heuristique gloutonne** (plus 
 
 ## Prérequis
 
-- **Python 3.7+** (bibliothèque standard uniquement, pas de dépendances externes)
+- **Python 3.7+** 
 
 ## Instances TSPLIB
 
