@@ -24,16 +24,16 @@ Ce dépôt contient l’implémentation d’une **heuristique gloutonne** (plus 
 
 ## Instances TSPLIB
 
-1. Créez le dossier `instances` à la racine du projet.
-2. Téléchargez au moins 10 fichiers `.tsp` (tailles différentes) sur [TSPLIB](https://softlib.rice.edu/pub/tsplib/tsp/).
-3. Placez-les dans le dossier `instances/`.
+1. Création de dossier `instances` à la racine du projet.
+2. Téléchargement de au moins 10 fichiers `.tsp` (tailles différentes) sur [TSPLIB](https://softlib.rice.edu/pub/tsplib/tsp/).
+3. Placement des instances  dans le dossier `instances/`.
 
 ## Exécution
 
 ### En local
 
-1. Ouvrez un terminal dans le dossier du projet (où se trouvent `main.py`, `glouton.py`, `memetic.py`).
-2. Lancez :
+1. Ouvrant  le  terminal dans le dossier du projet.
+2. Lancement de  :
 
 ```bash
 python main.py
@@ -47,7 +47,7 @@ Le tableau comparatif s’affiche et le fichier `Tableau_de_resultats_comparatif
 
 ### Sur Google Colab
 
-1. Créez un nouveau notebook.
+1. Création d'un nouveau notebook.
 2. **Cellule 1** — Upload du code et des instances `.tsp` :
 
 ```python
